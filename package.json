@@ -1,7 +1,7 @@
 {
   "name": "react-native-log-mailer",
   "version": "1.0.0",
-  "description": "",
+  "description": "react-native-log-mailer",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,7 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
+  "author": "Suraj Sanwal",
   "license": "",
   "peerDependencies": {
     "react-native": "^0.41.2"
